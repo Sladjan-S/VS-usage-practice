@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  exceptionDefining-c++.cpp
+c:\users\axilen\source\repos\exceptiondefining-c++\exceptiondefining-c++\exceptiondefining-c++.cpp(29): warning C4101: 'e': unreferenced local variable
+  exceptionDefining-c++.vcxproj -> C:\Users\Axilen\Source\Repos\exceptionDefining-c++\Debug\exceptionDefining-c++.exe

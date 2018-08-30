@@ -1,0 +1,3 @@
+﻿  FunctionOverloading-c++.cpp
+c:\users\axilen\source\repos\functionoverloading-c++\functionoverloading-c++\functionoverloading-c++.cpp(32): error C2664: 'void printData::print(char *)': cannot convert argument 1 from 'const char [10]' to 'int'
+  c:\users\axilen\source\repos\functionoverloading-c++\functionoverloading-c++\functionoverloading-c++.cpp(32): note: There is no context in which this conversion is possible
